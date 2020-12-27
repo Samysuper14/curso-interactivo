@@ -19,6 +19,9 @@ body {
     font-size: 17px;
     background-color: #333;
   }
+  .topnav img{
+    float: left;
+  }
   .topnav a {
     float: left;
     color: #f2f2f2;
