@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -126,8 +130,7 @@ body {
 }
 
 .miniatura {
-  height: 150px;
-  width: 300px;
+  width: 100%;
   border-radius: 25px;
 }
 
@@ -145,6 +148,7 @@ body {
 .column {
   float: left;
   width: 33.33%;
+  display: block;
 }
 
 /* Clear floats after rows */ 
@@ -156,6 +160,6 @@ body {
 
 /* Content */
 .content {
-  background-color: white;
+  background-color: gainsboro;
   padding: 10px;
 }
