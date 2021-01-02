@@ -8,7 +8,7 @@ body {
   }
 
   footer{
-    background-color: #888;
+    background-color: #bfbfbf;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -18,7 +18,7 @@ body {
 
   .header{
     overflow: hidden;
-    background-color: #888;
+    background-color: #bfbfbf;
     position: fixed;
     top: 0;
     width: 100%;
