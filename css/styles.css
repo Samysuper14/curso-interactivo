@@ -71,7 +71,10 @@ body {
   .main {
       padding: 16px;
       margin-top: 110px;
-      margin-left: 200px;
+  }
+
+  .main_curso{
+    margin-left: 200px;
   }
 
   /* The Modal (background) */
