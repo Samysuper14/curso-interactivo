@@ -130,6 +130,7 @@ body {
 }
 
 .miniatura {
+  height: 50%;
   width: 100%;
   border-radius: 25px;
 }
@@ -151,6 +152,11 @@ body {
   display: block;
 }
 
+.column a {
+  text-decoration: none;
+  color: #333;
+}
+
 /* Clear floats after rows */ 
 .row:after {
   content: "";
@@ -160,6 +166,7 @@ body {
 
 /* Content */
 .content {
+  border-radius: 25px;
   background-color: gainsboro;
   padding: 10px;
 }
