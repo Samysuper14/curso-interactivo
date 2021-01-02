@@ -13,6 +13,7 @@ body {
     bottom: 0;
     width: 100%;
     padding-left: 13px;
+    font-family: monospace;
   }
 
   .header{
