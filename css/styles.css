@@ -9,6 +9,9 @@ body {
 
   footer{
     background-color: #888;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
 
   .topnav {
