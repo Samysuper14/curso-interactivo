@@ -33,7 +33,14 @@ body {
   .main {
     padding: 16px;
     margin-top: 0px;
-}  
+    
+}
+
+.main_text{
+    margin-top: 200px;
+    text-align: center;
+    left: 200px;
+}
 
 .btn{
     position: absolute;
